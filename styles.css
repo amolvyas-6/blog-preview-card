@@ -58,3 +58,8 @@ h1 {
     display: inline-block;
     vertical-align: middle;
 }
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
